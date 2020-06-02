@@ -1,0 +1,5 @@
+mysql 
+https://github.com/thecamels/zabbix
+
+active ping
+https://github.com/Gregy/zabbix-icmp-agent
